@@ -111,7 +111,7 @@ a{color: #fff;}
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">2019年同期会&ensp;&ensp;&ensp;&ensp;<img src="QR_oizumi_home.png" alt="アクセス用QRコード" width="50"></p>
-                <a href="https://torokoid.github.io/oizumi">2019年同期会のHPリンク</a>
+                <a href="https://torokoid.github.io/mahoroba_2012/">2019年同期会のHPリンク</a>
             </div>
         </div>
     </div><!-- content01 -->
@@ -120,7 +120,7 @@ a{color: #fff;}
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">はんなりの会</p>
-                <a href="https://torokoid.github.io/hannari">はんなりの会のHPリンク</a>
+                <a href="https://torokoid.github.io/mahoroba_2013/">はんなりの会のHPリンク</a>
             </div>
         </div>
     </div><!-- content02 -->
@@ -129,7 +129,7 @@ a{color: #fff;}
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">2010年同期会</p>
-                <a href="https://torokoid.github.io/oizumi2010">2010年同期会のHPリンク</a>
+                <a href="https://torokoid.github.io/mahoroba_2014/">2010年同期会のHPリンク</a>
              </div>
         </div>
     </div><!-- content03 -->
@@ -138,7 +138,7 @@ a{color: #fff;}
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">2010年いずみ会</p>
-                <a href="https://torokoid.github.io/izumikai">2010年いずみ会のHPリンク</a>
+                <a href="https://torokoid.github.io/mahoroba_2015/">2010年いずみ会のHPリンク</a>
              </div>
         </div>
     </div><!-- content04 -->
@@ -147,7 +147,7 @@ a{color: #fff;}
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">船津さん、片桐さん提供、<br>  体育祭マスコット</p>
-                <a href="https://torokoid.github.io/mascot">体育祭マスコット写真、リンク</a>
+                <a href="https://torokoid.github.io/mahoroba_2016/">体育祭マスコット写真、リンク</a>
             </div>
         </div> 
     </div><!-- content05 -->
@@ -156,7 +156,7 @@ a{color: #fff;}
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">船津さん提供、遠足の写真</p>
-                <a href="https://torokoid.github.io/ensoku">遠足の写真、リンク</a>
+                <a href="https://torokoid.github.io/mahoroba_2017/">遠足の写真、リンク</a>
             </div>
         </div> 
     </div><!-- content06 -->
@@ -165,7 +165,7 @@ a{color: #fff;}
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">１組田中さん、他提供、<br>  大泉高校卒業アルバム</p>
-                <a href="https://torokoid.github.io/1978">卒業アルバム、リンク</a>
+                <a href="https://torokoid.github.io/mahoroba_2018/">2018年の記録</a>
             </div>
         </div> 
     </div><!-- content07 -->
