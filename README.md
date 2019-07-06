@@ -109,7 +109,7 @@ a{color: #fff;}
         <div id="content01_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">2012年まほろば&ensp;&ensp;&ensp;&ensp;<img src="QR_oizumi_home.png" alt="アクセス用QRコード" width="50"></p>
+                <p class="catch">2012年まほろば&ensp;&ensp;&ensp;&ensp;<img src="QR_mahoroba_home.png" alt="アクセス用QRコード" width="50"></p>
                 <a href="https://torokoid.github.io/mahoroba_2012/">2012年まほろばHPリンク</a>
             </div>
         </div>
