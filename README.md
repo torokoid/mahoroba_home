@@ -59,7 +59,7 @@ font-size: 1.5em;
 #content02_bg {background-image: url(https://torokoid.github.io/mahoroba/0126.JPG);}
 #content03_bg {background-image: url(https://torokoid.github.io/mahoroba/180.JPG);}
 #content04_bg {background-image: url(https://torokoid.github.io/mahoroba/6754.JPG);}
-#content05_bg {background-image: url(https://torokoid.github.io/mahoroba/137.JPG);}
+#content05_bg {background-image: url(https://torokoid.github.io/mahoroba/283.JPG);}
 #content06_bg {background-image: url(https://torokoid.github.io/mahoroba/001.JPG);}   
 #content07_bg {background-image: url(https://torokoid.github.io/mahoroba_2018/IMG_1974.JPG);}
 
