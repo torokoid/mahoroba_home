@@ -184,7 +184,7 @@ a{color: #fff;}
                 </div>
 <!-- フッタ -->
  <footer>
- <span class="white">Copyright 2019/05/01 Pe-Young(S.Hada)</span>
+ <span class="white">Copyright 2019/07/07 Torokoid</span>
  </footer>
             </div>
         </div>
