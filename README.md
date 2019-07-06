@@ -110,8 +110,8 @@ a{color: #fff;}
         <div id="content01_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">2019年同期会&ensp;&ensp;&ensp;&ensp;<img src="QR_oizumi_home.png" alt="アクセス用QRコード" width="50"></p>
-                <a href="https://torokoid.github.io/mahoroba_2012/">2019年同期会のHPリンク</a>
+                <p class="catch">2012年まほろば&ensp;&ensp;&ensp;&ensp;<img src="QR_oizumi_home.png" alt="アクセス用QRコード" width="50"></p>
+                <a href="https://torokoid.github.io/mahoroba_2012/">2012年まほろばHPリンク</a>
             </div>
         </div>
     </div><!-- content01 -->
@@ -119,8 +119,8 @@ a{color: #fff;}
         <div id="content02_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">はんなりの会</p>
-                <a href="https://torokoid.github.io/mahoroba_2013/">はんなりの会のHPリンク</a>
+                <p class="catch">2013年まほろば</p>
+                <a href="https://torokoid.github.io/mahoroba_2013/">2013年まほろばHPリンク</a>
             </div>
         </div>
     </div><!-- content02 -->
@@ -128,8 +128,8 @@ a{color: #fff;}
         <div id="content03_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">2010年同期会</p>
-                <a href="https://torokoid.github.io/mahoroba_2014/">2010年同期会のHPリンク</a>
+                <p class="catch">2014年まほろば</p>
+                <a href="https://torokoid.github.io/mahoroba_2014/">2014年まほろばHPリンク</a>
              </div>
         </div>
     </div><!-- content03 -->
@@ -137,8 +137,8 @@ a{color: #fff;}
         <div id="content04_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">2010年いずみ会</p>
-                <a href="https://torokoid.github.io/mahoroba_2015/">2010年いずみ会のHPリンク</a>
+                <p class="catch">2015年まほろば</p>
+                <a href="https://torokoid.github.io/mahoroba_2015/">2015年まほろばHPリンク</a>
              </div>
         </div>
     </div><!-- content04 -->
@@ -146,8 +146,8 @@ a{color: #fff;}
         <div id="content05_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">船津さん、片桐さん提供、<br>  体育祭マスコット</p>
-                <a href="https://torokoid.github.io/mahoroba_2016/">体育祭マスコット写真、リンク</a>
+                <p class="catch">2016年まほろば</p>
+                <a href="https://torokoid.github.io/mahoroba_2016/">2016年まほろばHPリンク</a>
             </div>
         </div> 
     </div><!-- content05 -->
@@ -155,8 +155,8 @@ a{color: #fff;}
         <div id="content06_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">船津さん提供、遠足の写真</p>
-                <a href="https://torokoid.github.io/mahoroba_2017/">遠足の写真、リンク</a>
+                <p class="catch">2017年まほろば</p>
+                <a href="https://torokoid.github.io/mahoroba_2017/">2017年まほろばHPリンク</a>
             </div>
         </div> 
     </div><!-- content06 -->
@@ -164,8 +164,8 @@ a{color: #fff;}
         <div id="content07_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">１組田中さん、他提供、<br>  大泉高校卒業アルバム</p>
-                <a href="https://torokoid.github.io/mahoroba_2018/">2018年の記録</a>
+                <p class="catch">2018年まほろば</p>
+                <a href="https://torokoid.github.io/mahoroba_2018/">2018年まほろばHPリンク</a>
             </div>
         </div> 
     </div><!-- content07 -->
