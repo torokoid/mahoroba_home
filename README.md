@@ -100,8 +100,8 @@ a{color: #fff;}
 </style>
 <link rel="preload" href="f.txt" as="script">
     <script type="text/javascript" src="f.txt"></script>
-    <link rel="preload" href="f(1).txt" as="script">
-    <script type="text/javascript" src="f(1).txt"></script>
+    <link rel="preload" href="f.txt" as="script">
+    <script type="text/javascript" src="f.txt"></script>
     <link rel="preload" href="https://pagead2.googlesyndication.com/pagead/js/r20190424/r20190131/show_ads_impl.js" as="script">
     </head>
 <body>
@@ -172,7 +172,7 @@ a{color: #fff;}
 
 <!--
                 <div class="ad" style="text-align: center;">
-                <script async="" src="./Scroll_files/f(2).txt"></script>
+                <script async="" src="./Scroll_files/f.txt"></script>
                 -->
                 <!-- naoyunet sampleページ -->
                 <!--
@@ -188,7 +188,7 @@ a{color: #fff;}
  </footer>
             </div>
         </div>
-    </div><!-- content03 -->
+    </div>
 </section>
 
 <script>
