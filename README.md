@@ -73,6 +73,14 @@ font-size: 1.5em;
 #content07 .wrap { background-color: rgba(255,0,0,0.2);}
 -->
 
+#content01 .wrap { background-color: rgba(0,0,0,0);}
+#content02 .wrap { background-color: rgba(0,0,0,0);}
+#content03 .wrap { background-color: rgba(0,0,0,0);}
+#content04 .wrap { background-color: rgba(0,0,0,0);}
+#content05 .wrap { background-color: rgba(0,0,0,0);}
+#content06 .wrap { background-color: rgba(0,0,0,0);}
+#content07 .wrap { background-color: rgba(0,0,0,0);}
+
 .text-box {
     padding: 50px 25px;
     max-width: 640px;
