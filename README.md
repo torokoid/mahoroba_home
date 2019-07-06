@@ -56,13 +56,13 @@ font-size: 1.5em;
 　　　　　　padding: 10px;}
  -->
 /* design*/
-#content01_bg {background-image: url(https://torokoid.github.io/oizumi/sample.jpg);}
-#content02_bg {background-image: url(https://torokoid.github.io/hannari/20190417_010.jpg);}
-#content03_bg {background-image: url(https://torokoid.github.io/oizumi2010/20100828_031.JPG);}
-#content04_bg {background-image: url(https://torokoid.github.io/izumikai/20101024_020.JPG);}
-#content05_bg {background-image: url(https://torokoid.github.io/mascot/20190521_009.JPG);}
-#content06_bg {background-image: url(https://torokoid.github.io/ensoku/20190527_001.JPG);}   
-#content07_bg {background-image: url(https://torokoid.github.io/1978/20190607_039.JPG);}
+#content01_bg {background-image: url(https://torokoid.github.io/mahoroba/0234.JPG);}
+#content02_bg {background-image: url(https://torokoid.github.io/mahoroba/0126.JPG);}
+#content03_bg {background-image: url(https://torokoid.github.io/mahoroba/180.JPG);}
+#content04_bg {background-image: url(https://torokoid.github.io/mahoroba/6754.JPG);}
+#content05_bg {background-image: url(https://torokoid.github.io/mahoroba/137.JPG);}
+#content06_bg {background-image: url(https://torokoid.github.io/mahoroba/001.JPG);}   
+#content07_bg {background-image: url(https://torokoid.github.io/mahoroba_2018/IMG_1974.JPG);}
 
 #content01 .wrap { background-color: rgba(255,0,0,0.2);}
 #content02 .wrap { background-color: rgba(0,255,0,0.2);}
