@@ -62,6 +62,7 @@ font-size: 1.5em;
 #content05_bg {background-image: url(https://torokoid.github.io/mahoroba/283.JPG);}
 #content06_bg {background-image: url(https://torokoid.github.io/mahoroba/454.JPG);}   
 #content07_bg {background-image: url(https://torokoid.github.io/mahoroba_2018/20180810_097.JPG);}
+#content08_bg {background-image: url(https://torokoid.github.io/mahoroba_2019/20190810_001.JPG);}
 
 /*
 #content01 .wrap { background-color: rgba(255,0,0,0.2);}
@@ -80,6 +81,7 @@ font-size: 1.5em;
 #content05 .wrap { background-color: rgba(0,0,0,0);}
 #content06 .wrap { background-color: rgba(0,0,0,0);}
 #content07 .wrap { background-color: rgba(0,0,0,0);}
+#content08 .wrap { background-color: rgba(0,0,0,0);}
 
 .text-box {
     padding: 50px 25px;
@@ -94,6 +96,9 @@ font-size: 1.5em;
     margin-left: auto;
 }
 #content06 .text-box {
+    margin-left: auto;
+}
+#content08 .text-box {
     margin-left: auto;
 }
 .text-box .catch {
@@ -178,6 +183,15 @@ a{color: #fff;}
             </div>
         </div> 
     </div><!-- content07 -->
+<div id="content08" class="contents">
+        <div id="content08_bg" class="background"></div>
+        <div class="wrap">
+            <div class="text-box">
+                <p class="catch">2019年まほろば</p>
+                <a href="https://torokoid.github.io/mahoroba_2019/">2019年まほろばHPリンク</a>
+            </div>
+        </div> 
+    </div><!-- content08 -->
 
 <!--
                 <div class="ad" style="text-align: center;">
